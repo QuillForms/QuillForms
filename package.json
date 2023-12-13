@@ -204,7 +204,7 @@
 		"node-watch": "0.7.0",
 		"npm-run-all": "4.1.5",
 		"patch-package": "6.2.2",
-		"postcss": "8.4.5",
+		"postcss": "8.4.31",
 		"postcss-color-function": "4.1.0",
 		"postcss-loader": "6.2.1",
 		"prettier": "npm:wp-prettier@2.6.2",
